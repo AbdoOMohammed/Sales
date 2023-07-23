@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #f5deb3;
+    background-color: #f5deb3 !important;
 }
 #AAA{
     background-image: url(59c48485693237.5d8354557e709.jpg);
